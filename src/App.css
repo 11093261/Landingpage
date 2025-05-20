@@ -1,0 +1,23 @@
+.buttons{
+    background-color: #4caf50;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 20vw;
+    height: 6vh;
+}
+.cam{
+    box-shadow:2px 0px 3px 2px;
+}
+
+.line{
+    border-bottom: 3px  whitesmoke;
+    height: 10vh;
+    width: 1px;
+    background-color: whitesmoke;
+}
+.text{
+    text-decoration: none;
+}
